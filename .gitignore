@@ -1,0 +1,6 @@
+# IDEs
+.idea/
+# Logs
+*.log
+# Test cache
+.pytest_cache/
